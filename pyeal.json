@@ -1,6 +1,7 @@
 {
-  "type": "maya-plugin",
+  "type": "package",
   "name": "BSTransfer",
+  "imp_name": "exec",
   "outer_lib": [
     "C:/Users/cpcgs/sync/work-local/tmp/cpform/src"
   ]

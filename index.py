@@ -11,7 +11,7 @@
 
 """
 from __future__ import unicode_literals, print_function, division
-if __name__ == '__main__':
-    from gui import create_main_window
 
-    create_main_window()
+from gui import create_main_window
+
+create_main_window()
